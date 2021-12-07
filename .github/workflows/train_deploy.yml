@@ -1,4 +1,4 @@
-# Actions train a model on Azure Machine Learning rerun again
+# Actions train a model on Azure Machine Learning rerun now
 name: aml-train-deploy-workflow
 
 on:
